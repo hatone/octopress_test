@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://hatone.github.io/octopress_test/sitemap.xml 

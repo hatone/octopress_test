@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://hatone.github.io/octopress_test/blog/archives/</loc>
+        <lastmod>2013-04-09T20:34:25-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hatone.github.io/octopress_test/</loc>
+        <lastmod>2013-04-09T20:34:25-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hatone.github.io/octopress_test/robots.txt</loc>
+        <lastmod>2013-04-09T20:34:25-07:00</lastmod>
+    </url>
+</urlset>
