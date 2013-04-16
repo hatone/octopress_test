@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://hatone.github.io/octopress_test/atom.xml" rel="self"/>
   <link href="http://hatone.github.io/octopress_test/"/>
-  <updated>2013-04-16T15:22:32-07:00</updated>
+  <updated>2013-04-16T15:23:23-07:00</updated>
   <id>http://hatone.github.io/octopress_test/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,13 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test]]></title>
+    <title type="html"><![CDATA[写真のテスト]]></title>
     <link href="http://hatone.github.io/octopress_test/blog/2013/04/16/test/"/>
     <updated>2013-04-16T15:21:00-07:00</updated>
     <id>http://hatone.github.io/octopress_test/blog/2013/04/16/test</id>
     <content type="html"><![CDATA[<h2>写真のテスト</h2>
 
 <p><img src="http://hatone.github.io/octopress_test/images/img59296913.jpg" alt="violin" /></p>
+
+<p>ほげほげー</p>
 ]]></content>
   </entry>
   
